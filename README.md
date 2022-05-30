@@ -9,7 +9,7 @@ Bước 2: Chạy XXAMP và start module apache và mysql -> Nhấn vào admin t
 
 Bước 3: Trong PhpAdmin, Chọn new thanh bên trái -> Đến phần Create Database tạo Database name là "websach" và Chọn collation là utf8mb4_general_ci -> Chọn Create để tạo database
 
-Bước 4: Nhấn vào database websach tại thanh bên trái, trên thanh công cụ chọn import và chọn Choose file tìm đến File websach.sql trong htdocs/websach nhấn open -> Nhấn Go để import dữ liệu vào
+Bước 4: Nhấn vào database websach tại thanh bên trái, trên thanh công cụ chọn import và chọn Choose file tìm đến File "websach.sql" trong htdocs/websach nhấn open -> Nhấn Go để import dữ liệu vào
 
 Bước 5: Tiến hành chạy Website 
 
