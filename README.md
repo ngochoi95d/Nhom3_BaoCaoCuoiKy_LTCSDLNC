@@ -3,11 +3,11 @@ Cài đặt XXAMP để có thể chạy Website:
 
 Link cài đặt XXAMP: https://www.apachefriends.org/download.html
 
-Tải source code về và giải nén, tìm đến thư mục xxamp đã cài đặt bỏ file source code đã giải nén vào trong thư mục htdocs
+Bước 1: Tải source code về và giải nén, tìm đến thư mục xxamp đã cài đặt bỏ file source code đã giải nén vào trong thư mục htdocs
 
-Chạy XXAMP và start module apache và mysql -> Nhấn vào admin trong Actions của mysql để đến trang PhpAdmin
+Bước 2: Chạy XXAMP và start module apache và mysql -> Nhấn vào admin trong Actions của mysql để đến trang PhpAdmin
 
-Import file websach.sql vào PhpAdmin
+Bước 3: Import file websach.sql vào PhpAdmin
 
 * Link Url trang web:
 
