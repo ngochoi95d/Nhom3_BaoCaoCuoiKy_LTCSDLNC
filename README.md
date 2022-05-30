@@ -1,5 +1,6 @@
 # Nhom3_BaoCaoCuoiKy_LTCSDLNC
-Hướng Dẫn:
+* Hướng Dẫn:
+
 Cài đặt XXAMP để có thể chạy Website:
 
 Link cài đặt XXAMP: https://www.apachefriends.org/download.html
