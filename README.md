@@ -9,6 +9,8 @@ Chạy XXAMP và start module apache và mysql -> Nhấn vào admin trong Action
 
 Import file websach.sql vào PhpAdmin
 
+* Link Url trang web:
+
 url của Website: http://localhost/websach/index.php
 
 url của Admin: http://localhost/websach/admin/index.php
